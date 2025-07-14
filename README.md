@@ -12,7 +12,7 @@ I am a multidisciplinary technologist and visual artist with a profound interest
 ### Current Areas of Focus
 
 * Development of a precision-engineered, Arduino-based **DIY pen plotter**, integrating stepper motor control and custom 3D-printed mechanical components
-* Architectural design and implementation of a robust **Next.js**-driven web platform featuring **Redux Toolkit**, **Drizzle ORM**, and **Auth0** for secure identity management
+* Architectural customization of a Payload CMS-based web template, including implementation of advanced form submission workflows with CAPTCHA protection and dynamic custom page blocks for enhanced content flexibility
 * Extension of **ERPNext** functionality through custom module development to optimize business process automation
 
 ---
