@@ -66,9 +66,8 @@ Soy un desarrollador e ilustrador costarricense con formación técnica y artís
 ## 📫 Contacto Profesional
 
 * 💼 [Sitio Web y Portafolio](https://strps.dev)
-* 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-* 📷 Instagram: [@yourhandle](https://instagram.com/yourhandle)
-* ✉️ Correo: [your.email@example.com](mailto:your.email@example.com)
+* 🐦 Twitter: [@strps_dev](https://x.com/strps_dev)
+* ✉️ Correo: [strps.dev@gmail.com](mailto:strps.dev@gmail.com)
 
 ---
 
