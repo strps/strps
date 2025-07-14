@@ -71,4 +71,4 @@ Soy un desarrollador e ilustrador costarricense con formación técnica y artís
 
 ---
 
-![César's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username\&show_icons=true\&theme=radical)
+![César's GitHub Stats](https://github-readme-stats.vercel.app/api?username=strps\&show_icons=true\&theme=radical)
