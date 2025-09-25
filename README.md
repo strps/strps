@@ -1,7 +1,7 @@
 # 👋 Greetings, I'm César Jerez
 
 🌍 Based in Costa Rica | 💬 Bilingual in English and Spanish
-🎨 Professional Illustrator | 💻 Software Developer | 🎛 Researcher in Generative Systems
+💻 Software Developer | 🎨 Professional Illustrator | 
 
 ---
 
